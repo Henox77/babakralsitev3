@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<link rel="icon" type="image/x-icon" href="favicon_16px.png">
+<title>ｅｎｌｉｇｈｔｅｎｍｅｎｔ</title>
+<style>
+* {image-rendering: pixelated !important;}
+body {cursor:url("cursor.gif"), auto;}
+a {cursor:url("cursor2.gif"), default;}
+
+  img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+  width: 395px;
+   height: 610px;
+   margin-top: -230px;
+   margin-left: -197.5px;
+}
+  
+
+  font {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   margin-top: -400px;
+   margin-left: -130px;
+}
+
+body {
+  background-color:black;
+  }
+  
+</style>
+
+
+
+<body onload="blink();">
+
+<div align="center">
+
+<script type="text/javascript">
+<!--
+var b_timer = null; // blink timer
+var b_on = true; // blink state
+var blnkrs = null; // array of spans
+
+function blink() {
+var tmp = document.getElementsByTagName("span");
+if (tmp) {
+blnkrs = new Array();
+var b_count = 0;
+for (var i = 0; i < tmp.length; ++i) {
+if (tmp[i].className == "blink") {
+blnkrs[b_count] = tmp[i];
+++b_count;
+}
+}
+// time in m.secs between blinks
+// 500 = 1/2 second
+blinkTimer(25);
+}
+}
+
+function blinkTimer(ival) {
+if (b_timer) {
+window.clearTimeout(b_timer);
+b_timer = null;
+}
+blinkIt();
+b_timer = window.setTimeout('blinkTimer(' + ival + ')', ival);
+}
+
+function blinkIt() {
+for (var i = 0; i < blnkrs.length; ++i) {
+if (b_on == true) {
+blnkrs[i].style.visibility = "hidden";
+}
+else {
+blnkrs[i].style.visibility = "visible";
+}
+}
+b_on =!b_on;
+}
+//-->
+</script>
+
+
+<br><font font="" size="1" font="" color="#c1b492"><br><br><br><br><br><i>「　Ｉ　ｓｈａｌｌ　ｄｒａｉｎ　ｙｏｕｒ　<b><span class="blink">ｍｉｎｄｓ</span></b><br>ａｎｄ　ｂｅｎｄ　ｙｏｕｒ　ｗｉｌｌ　ｔｏ　ｍｉｎｅ．<br>Ｙｏｕ　ｗｉｌｌ　ｓｕｂｍｉｔ，<br>ａｎｄ　Ｉ　ｓｈａｌｌ　ｐｏｓｓｅｓｓ　ｙｏｕ．」<br><sub><sub>－ｎｅｏｌａｉｎ</sub></sub></i></font>
+
+<a href="frame.html"><img border="0" src="LAINHADN3.gif" alt="hand" width="395" height="610"></a>
+<iframe width="0" height="0" src="//www.youtube.com/embed/b4fl85vEm0s?autoplay=1&loop=1&playlist=b4fl85vEm0s" frameborder="0" allowfullscreen=""></iframe>
+</div>
+</body>

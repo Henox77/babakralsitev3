@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>ｔｅｌｅｖｉｓｉｏｎ</title>
+    <link rel="icon" type="image/x-icon" href="favicon_16px.png">
+
+<script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'pTzumRQKGgM',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+
+<style>
+* {image-rendering: pixelated !important;}
+</style>
+ 
+ <style>
+font {letter-spacing:20px;}
+body {cursor:url("cursor.gif"), auto;}
+
+a {cursor:url("cursor2.gif"), default;}
+</style>
+
+<style>
+  img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 700px;
+   height: 700px;
+   margin-top: -350px;
+   margin-left: -350px;
+}
+	
+</style>
+
+</head>
+
+<body bgcolor="#000000">
+
+<div align="center">
+
+<a href="watchful.html">
+<img border="0" src="TV_Lain.gif" alt="TV Lain" width="700" height="700"></a>
+</div>
+<div id="player"></div>
+</body>
+</html>

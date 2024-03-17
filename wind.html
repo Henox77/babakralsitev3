@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="favicon_16px.png">
+<title>Ｗｉｎｄ</title>
+
+<script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'rLiyFaLs8PY',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+
+<style type="text/css">
+body {cursor:url("cursor.gif"), auto;}
+
+a {cursor:url("cursor2.gif"), default;}
+
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  }
+  
+iframe {
+  margin-left:-9999px;
+  }
+
+</style>
+
+</head>
+
+<body background="/windF.gif">
+
+
+
+
+
+<br>
+<br><br><br><br><br><br><br><br><br><a href="invlain.html">
+<img border="0" src="SunD.gif" alt="Sun" width="200" height="200"></a><br><br><br><br><br>
+<img src="LainDressSlow.gif">
+<!--<iframe width="1" height="1" src="https://www.youtube.com/embed/rLiyFaLs8PY?rel=0&autoplay=1&loop=1" frameborder="0"></iframe>-->
+<div id="player"></div>
+
+</body>

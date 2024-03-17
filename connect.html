@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>ｃｏｎｎｅｃｔ</title>
+    <link rel="icon" type="image/x-icon" href="favicon_16px.png">
+    
+    <script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'xsf68qTTQf0',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+    
+<style type="text/css">
+body {cursor:url("cursor.gif"), auto;}
+
+a {cursor:url("cursor2.gif"), default;}
+
+  img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 942px;
+   height: 942px;
+   margin-top: -471px;
+   margin-left: -471px;
+}
+	
+</style>
+
+</head>
+    
+<body bgcolor="#000000">
+<div align="center">
+
+<br>
+<a href="pattern.html">
+<img border="0" src="lain_wired.gif" alt="Wired" width="942" height="942"></a>
+</div>
+<div id="player"></div>
+</body>
+</html>

@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>ｃｏｌｌｅｃｔｉｖｅ</title>
+    <link rel="icon" type="image/x-icon" href="favicon_16px.png">
+
+<script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'cWlugvcnuSA',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+
+<style>
+* {image-rendering: pixelated !important;}
+</style>
+
+<script type="text/javascript">
+<!--
+var b_timer = null; // blink timer
+var b_on = true; // blink state
+var blnkrs = null; // array of spans
+
+function blink() {
+var tmp = document.getElementsByTagName("span");
+if (tmp) {
+blnkrs = new Array();
+var b_count = 0;
+for (var i = 0; i < tmp.length; ++i) {
+if (tmp[i].className == "blink") {
+blnkrs[b_count] = tmp[i];
+++b_count;
+}
+}
+// time in m.secs between blinks
+// 500 = 1/2 second
+blinkTimer(700);
+}
+}
+
+function blinkTimer(ival) {
+if (b_timer) {
+window.clearTimeout(b_timer);
+b_timer = null;
+}
+blinkIt();
+b_timer = window.setTimeout('blinkTimer(' + ival + ')', ival);
+}
+
+function blinkIt() {
+for (var i = 0; i < blnkrs.length; ++i) {
+if (b_on == true) {
+blnkrs[i].style.visibility = "hidden";
+}
+else {
+blnkrs[i].style.visibility = "visible";
+}
+}
+b_on =!b_on;
+}
+//-->
+</script>
+
+
+<style type="text/css">
+body {cursor:url("cursor.gif"), auto;}
+</style>
+
+<style type="text/css">
+a {cursor:url("cursor2.gif"), default;}
+</style>
+
+
+
+<style>
+  img {
+   position:absolute;
+   bottom:-1px;
+   left: 50%;
+   width: 1024px;
+   height: 800px;
+   margin-left: -512px;
+}
+  
+</style>
+
+
+
+</head>
+
+<body background="/bg_303.gif" bgcolor="#000000" onload="blink();">
+<div align="center">
+
+<a href="consciousness.html">
+<img border="0" src="1367109547_2.gif" alt="Fece" width="1024" height="800"></a>
+</div>
+<div id="player"></div>
+</body>
+</html>

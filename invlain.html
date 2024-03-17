@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<head>
+<title>ＩｎｖＬａｉｎ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="shortcut icon" href="favicon_16px.png">
+
+<script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'uy63_w8gDGQ',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+
+<style type="text/css">
+body {cursor:url("cursor.gif"), auto;}
+
+a {cursor:url("cursor2.gif"), default;}
+
+  img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 400px;
+   height: 324px;
+   margin-top: -164px;
+   margin-left: -200px;
+}
+
+iframe {
+  margin-left:-9999px;
+  }
+	
+</style>
+
+</head>
+
+<body background="/Static2.gif">
+
+<div align="center">
+
+<a href="lovelain.html">
+<img border="0" src="VisLain.gif" alt="Sun" width="400" height="324"></a>
+<!--<iframe width="1" height="1" src="www.youtube.com/embed/uy63_w8gDGQ?autoplay=1&loop=1&playlist=uy63_w8gDGQ" frameborder="0" allowfullscreen></iframe>-->
+<div id="player"></div>
+</div>
+</body>
+

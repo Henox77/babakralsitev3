@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="favicon2.gif">
+    <title>fall</title>
+    
+    <style type="text/css">
+    
+    body {
+      background-image:url("bg/bg_lightning_02.gif");
+      padding:0px;
+      margin:0px;
+      }
+    
+    div#rain_01 {
+      background-image:url("bg/bg_rain_64_01.gif");
+      height:100%;
+      width:100%;
+      position:absolute;
+      animation: rain_01_anm 10s linear infinite;
+
+      }
+
+    div#rain_02 {
+      background-image:url("bg/bg_rain_128_01.gif");
+      background-position:center;
+      height:100%;
+      width:100%;
+      position:absolute;
+      animation: rain_02_anm 6s linear infinite;
+      }
+    
+    div#rain_03 {
+      background-image:url("bg/bg_rain_256_01.gif");
+      background-position:bottom right;
+      height:100%;
+      width:100%;
+      position:absolute;
+      animation: rain_03_anm 1s linear infinite;
+      }
+      
+    img {
+      position:absolute;
+      bottom:0px;
+      left:10%;
+      }
+      
+  
+  @-webkit-keyframes rain_02_anm {
+       from{
+        background-position: 128px -128px;
+    }
+    to{
+        background-position: -128px 128px;
+    }
+  }
+  
+  @-webkit-keyframes rain_03_anm {
+       from{
+        background-position: 256px -256px;
+    }
+    to{
+        background-position: -256px 256px;
+    }
+  }
+    
+    
+    
+ @keyframes rain_02_anm {
+       from{
+        background-position: 128px -128px;
+    }
+    to{
+        background-position: -128px 128px;
+    }
+  }
+  
+  @keyframes rain_03_anm {
+       from{
+        background-position: 256px -256px;
+    }
+    to{
+        background-position: -256px 256px;
+    }
+  }
+    
+    </style>
+  </head>
+  <body>
+    <div id="rain_02"></div>
+    <img src="glitch/military_04.gif" alt="">
+    <div id="rain_03"></div>
+    <iframe width="0" height="0" src="//www.youtube.com/embed/ii2Adi2iFRM?autoplay=1&loop=1&playlist=ii2Adi2iFRM" frameborder="0" allowfullscreen=""></iframe>
+
+
+    
+  </body>
+</html>

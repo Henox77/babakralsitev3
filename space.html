@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<head>
+<link rel="shortcut icon" href="favicon_16px.png">
+<title>Ｏｍｎｉｐｒｅｓｅｎｃｅ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'bSgDauqnufI',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+
+<style type="text/css">
+body {cursor:url("cursor.gif"), auto;}
+
+a {cursor:url("cursor2.gif"), default;}
+
+  img {
+   position:absolute;
+   bottom:-1px;
+   left: 50%;
+   width: 1048px;
+   height: 800px;
+   margin-left: -524px;
+}
+  	iframe {
+  margin-left:-9999px;
+  }
+  
+</style>
+
+</head>
+
+<body bgcolor="#000000">
+
+<div align="center">
+
+
+
+<a href="headless.html">
+<img border="0" src="step2.gif" alt="Fece" width="1048" height="800"></a>
+
+</div>
+
+<div id="player"></div>
+</body>
+

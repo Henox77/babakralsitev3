@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>ｃｏｌｕｍｎ</title>
+    <link rel="icon" type="image/x-icon" href="favicon_16px.png">
+
+<script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'zVQJw0EeriI',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+
+<style>
+* {image-rendering: pixelated !important;}
+</style>
+
+ 
+ <style>
+font {letter-spacing:20px;}
+</style>
+ 
+ <style type="text/css">
+body {cursor:url("cursor.gif"), auto;}
+</style>
+ 
+ <style type="text/css">
+a {cursor:url("cursor2.gif"), default;}
+</style>
+ 
+<script type="text/javascript">
+<!--
+var b_timer = null; // blink timer
+var b_on = true; // blink state
+var blnkrs = null; // array of spans
+
+function blink() {
+var tmp = document.getElementsByTagName("span");
+if (tmp) {
+blnkrs = new Array();
+var b_count = 0;
+for (var i = 0; i < tmp.length; ++i) {
+if (tmp[i].className == "blink") {
+blnkrs[b_count] = tmp[i];
+++b_count;
+}
+}
+// time in m.secs between blinks
+// 500 = 1/2 second
+blinkTimer(700);
+}
+}
+
+function blinkTimer(ival) {
+if (b_timer) {
+window.clearTimeout(b_timer);
+b_timer = null;
+}
+blinkIt();
+b_timer = window.setTimeout('blinkTimer(' + ival + ')', ival);
+}
+
+function blinkIt() {
+for (var i = 0; i < blnkrs.length; ++i) {
+if (b_on == true) {
+blnkrs[i].style.visibility = "hidden";
+}
+else {
+blnkrs[i].style.visibility = "visible";
+}
+}
+b_on =!b_on;
+}
+//-->
+</script>
+
+ <!--Депрессия и тревога -->
+
+
+</head>
+
+<body background="/1367104084.gif" bgcolor="#000000" onload="blink();">
+
+<div align="center">
+
+
+<a href="acid.html">
+<img border="0" src="tumblr_stop_stealing_my_shit.gif" alt="LoveLain" width="400" height="611"></a><br>
+<font size="5" color="#c1b492">Спокойствие и довольство<span class="blink">▕</span></font><br>
+</div>
+<div id="player"></div>
+</body>
+</html>

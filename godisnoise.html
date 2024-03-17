@@ -1,0 +1,178 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>⌈ 神 は ノ イ ズ で す ⌋</title>
+    <link rel="icon" type="image/png" href="favicon_64px.png" sizes="64x64">
+    <link rel="icon" type="image/png" href="favicon_32px.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="favicon_16px.png" sizes="16x16">
+    <style>
+        body {
+
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: black;
+            image-rendering: pixelated;
+            text-align:center;
+            font-smooth: never;
+            -webkit-font-smoothing: none;
+            color:#c1b492;
+        }
+
+        #image-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform-origin: center center;
+            transform: translate(-50%, -50%);
+            width: 384px;
+            height: 384px;
+            display: grid;
+            grid-template-columns: repeat(128, 3fr);
+            grid-template-rows: repeat(128, 3fr);
+        }
+        
+        #rgbFilter {
+            background-image: url("rgb_filter.png");
+            background-position:0px 0px;
+            z-index: 100;
+            mix-blend-mode: overlay;
+            image-rendering: pixelated;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            animation: rgb 0.1s infinite linear;
+            pointer-events: none;
+        }
+        
+@keyframes rgb {
+  from {background-position:0px 0px;}
+  to {background-position:3px 0px;}
+}
+        
+        #frame {
+            background-image: url(fauuxframe.png);
+            background-repeat:none;
+            background-position:center center;
+            background-size:cover;
+            z-index: 90;
+            image-rendering: pixelated;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform-origin: center center;
+            transform: translate(-50%, -50%);
+            width: 480px;
+            height: 480px;
+            image-rendering: pixelated;
+        }
+        
+      h1 {
+        font-size:16px;
+	      font-family:Times, "Times New Roman", serif;
+	      font-weight:normal;
+	      letter-spacing:4px;
+	      margin-top:20px;
+	      font-style:italic;
+	      opacity:0;
+	      animation: fadeUp 2s ease-in-out forwards;
+        }
+        
+ @keyframes fadeUp {
+  from {opacity:0;}
+  to {opacity:1;}
+}
+
+#god {
+  opacity:0;
+  animation: fadeUp 2s ease-in-out forwards;
+  animation-delay: 1s;
+  width:100%;
+  height:100%;
+  }
+  
+    #counter {
+        position: fixed;
+        bottom: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 14px;
+        font-family:Times, "Times New Roman", serif;
+	      font-weight:normal;
+	      letter-spacing:4px;
+	      font-style:italic;
+        color: #c1b492;
+        opacity: 0;
+        animation: fadeUp 2s ease-in-out forwards;
+        animation-delay: 1s;
+    }
+    
+    </style>
+</head>
+<body>
+    <div id="rgbFilter"></div>
+    <h1>偶然の窓を考えてみてください、<br>
+神の手にあって、<br>
+あなたは自分の創造の姿を見つけるでしょう。</h1>
+    
+    <div id="god">
+    <div id="frame"></div>
+
+    <div id="image-container"></div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        createInitialGrid();
+        setInterval(updateRandomImage, 1);
+    });
+
+    let generatedImages = 0;
+
+    function createInitialGrid() {
+        const imageContainer = document.getElementById('image-container');
+
+        for (let i = 0; i < 128; i++) {
+            for (let j = 0; j < 128; j++) {
+                const pixel = document.createElement('div');
+                pixel.style.width = '3px'; /* 1 * 3 */
+                pixel.style.height = '3px'; /* 1 * 3 */
+                imageContainer.appendChild(pixel);
+            }
+        }
+    }
+
+    function updateRandomImage() {
+        const imageContainer = document.getElementById('image-container');
+        const pixels = imageContainer.children;
+
+        for (let i = 0; i < pixels.length; i++) {
+            pixels[i].style.backgroundColor = getRandomColor();
+        }
+
+        // Update the counter
+        generatedImages++;
+        document.getElementById('imageCounter').textContent = generatedImages;
+    }
+
+    function getRandomColor() {
+        const colors = ['#000', '#c1b492', '#d2738a'];
+        const randomIndex = Math.floor(Math.random() * colors.length);
+        return colors[randomIndex];
+    }
+</script>
+    
+    </div>
+    <div id="counter">見られた画像: <span id="imageCounter">0</span></div>
+<audio autoplay="" loop="">
+  <source src="sound/psx_lain.wav" type="audio/wav">
+</audio>
+<audio autoplay="on" loop="on">
+  <source src="sound/boon_loop.wav" type="audio/wav">
+</audio>
+<audio autoplay="on">
+  <source src="sound/WiredIntro2.wav" type="audio/wav">
+</audio>
+</body>
+</html>

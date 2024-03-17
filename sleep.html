@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>ｓｌｅｅｐ</title>
+    <link rel="icon" type="image/x-icon" href="favicon_16px.png">
+
+<script>
+
+var tag = document.createElement('script');
+tag.src = "http://www.youtube.com/iframe_api";
+
+var fScriptTag = document.getElementsByTagName('script')[0];
+fScriptTag.parentNode.insertBefore(tag, fScriptTag);
+
+    var player;
+    function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+           height: '0',
+           width: '0',
+           videoId: 'SyTjBLJMh0M',
+           playerVars:{'mute' : 0,'autoplay':1},
+           events: {  }
+        });
+    }
+
+</script>
+
+<style>
+* {image-rendering: pixelated !important;}
+</style>
+
+<style type="text/css">
+body {cursor:url("cursor.gif"), auto;}
+</style>
+
+
+<style type="text/css">
+a {cursor:url("cursor2.gif"), default;}
+</style>
+
+<style>
+  img {
+   position:absolute;
+   bottom:-1px;
+   left: -1px;
+   width: 969px;
+   height: 700px;
+   margin-left: -1px;
+}
+  
+</style>
+
+</head>
+
+
+<body background="/bg_220.gif" bgcolor="#000000">
+
+<div align="center">
+   
+<a href="identity.html">
+<img border="0" src="Sleep_2.gif" alt="LoveLain" width="969" height="700"></a><br>
+
+</div>
+<div id="player"></div>
+</body>
+</html>

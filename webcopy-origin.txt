@@ -1,0 +1,2356 @@
+Uri: http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ajax\libs\webfont\1\webfont.js
+Content Type: text/javascript
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fpdownload2.macromedia.com/pub/shockwave/cabs/flash/swflash.cab
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\pub\shockwave\cabs\flash\swflash.cab
+Content Type: application/vnd.ms-cab-compressed
+
+Uri: http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject.js
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\download_webplayer-3.x\3.0\uo\UnityObject.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.0/lottie.js
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ajax\libs\bodymovin\5.5.0\lottie.js
+Content Type: application/javascript
+
+Uri: https://fauux.neocities.org/
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\index.htm
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/0000033333.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\0000033333.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/00004444444.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\00004444444.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/01_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\01_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/03 Little Night III.mp3
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\03 Little Night III.mp3
+Content Type: audio/mpeg
+
+Uri: https://fauux.neocities.org/1367108440-2_4-02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\1367108440-2_4-02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/1367109547_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\1367109547_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/1367110195_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\1367110195_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/1381227385_3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\1381227385_3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/16c.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\16c.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/1st_day.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\1st_day.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/2020
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\2020.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/2020.pdf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\2020.pdf
+Content Type: application/pdf
+
+Uri: https://fauux.neocities.org/2021
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\2021.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/27.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\27.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/404_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\404_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/AboutMe
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\AboutMe.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/accela
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\accela.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/accela_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\accela_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/accelerate
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\accelerate.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/access
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\access.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/acid
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\acid.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/acid.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\acid.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/aggLAIN.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\aggLAIN.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/aggravate
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\aggravate.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/AIRhead.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\AIRhead.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/almostCryLAIN6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\almostCryLAIN6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/alpha_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\alpha_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/anguish
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\anguish.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/ascii
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ascii.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/at
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\at.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/aurora
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\aurora.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/ava
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ava.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/avatars/AVA_1.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_1.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_10.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_10.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_11.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_11.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_12.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_12.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_13.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_13.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_14.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_14.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_15.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_15.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_16.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_16.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_17.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_17.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_18.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_18.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_19.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_19.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_20.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_20.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_21.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_21.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_22.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_22.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_23.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_23.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_24.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_24.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_25.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_25.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_26.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_26.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_27.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_27.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_28.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_28.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_29.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_29.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_30.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_30.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_7.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_7.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_8.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_8.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/AVA_9.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\AVA_9.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/avatars/tokiotown3.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\avatars\tokiotown3.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/bdy2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bdy2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/BearSuitDesu_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\BearSuitDesu_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/beaurtuy6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\beaurtuy6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/besj2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\besj2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg-50ds-02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg-50ds-02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg-50ds-04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg-50ds-04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg-rip-02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg-rip-02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg/bg_lightning_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg\bg_lightning_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg/bg_main2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg\bg_main2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg/bg_rain_128_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg\bg_rain_128_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg/bg_rain_256_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg\bg_rain_256_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg/bg_rain_64_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg\bg_rain_64_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg/bg_RGB_horizl_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg\bg_RGB_horizl_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg104.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg104.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_317.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_317.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_318.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_318.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_444.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_444.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_48px_b.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_48px_b.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_48px_c.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_48px_c.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_700.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_700.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_701.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_701.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_darker.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_darker.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/bg_dark_anim_0_08.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\bg_dark_anim_0_08.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/blinkneesan-2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\blinkneesan-2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/blue.mov
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\blue.mov
+Content Type: video/quicktime
+
+Uri: https://fauux.neocities.org/brazil
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\brazil.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/breath
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\breath.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/broadcast
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\broadcast.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/BuddahLein.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\BuddahLein.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/caps
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\caps.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/cease
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\cease.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/centipede
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\centipede.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/change
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\change.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/chisa
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\chisa.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/chisa.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\chisa.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/cm2wirdBIG3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\cm2wirdBIG3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/coastline
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\coastline.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/collective
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\collective.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/column
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\column.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/combine
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\combine.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/computerdream
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\computerdream.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/connect
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\connect.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/consciousness
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\consciousness.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/consistent
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\consistent.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/contact
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\contact.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/contemplation
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\contemplation.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/Conversate.mp3
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Conversate.mp3
+Content Type: audio/mpeg
+
+Uri: https://fauux.neocities.org/crazed2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\crazed2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/crowd
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\crowd.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/culmination
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\culmination.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/cursor.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\cursor.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/cursor2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\cursor2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/cxc4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\cxc4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Cyberia_Red.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Cyberia_Red.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/data
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\data.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/daze
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\daze.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/deity
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\deity.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/distance
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\distance.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/distance2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\distance2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/divinity
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\divinity.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/dmt
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\dmt.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/doorBK.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\doorBK.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/downloads
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\downloads.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/ego
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ego.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/endangered
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\endangered.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/endless
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\endless.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/endless_idol_small_fps_07.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\endless_idol_small_fps_07.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/enlightenment
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\enlightenment.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/esbejs3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\esbejs3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/escapism
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\escapism.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/eternal_idol_07.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\eternal_idol_07.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/eternity
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\eternity.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/ether
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ether.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/ether/aether-preview-02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ether\aether-preview-02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/ether/favicon-02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ether\favicon-02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/eue.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\eue.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/eyeLain.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\eyeLain.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/eyeLain2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\eyeLain2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/eyes
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\eyes.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/faction
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\faction.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/fall
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\fall.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/fauux-btn-01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\fauux-btn-01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/fauux.mov
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\fauux.mov
+Content Type: video/quicktime
+
+Uri: https://fauux.neocities.org/fauux4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\fauux4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/fauuxframe.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\fauuxframe.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/favicon2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\favicon2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/favicon_16px.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\favicon_16px.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/favicon_16px.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\favicon_16px.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/favicon_32px.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\favicon_32px.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/favicon_64px.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\favicon_64px.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/film_motion_2.webmhd.webm
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\film_motion_2.webmhd.webm
+Content Type: video/webm
+
+Uri: https://fauux.neocities.org/flashback
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\flashback.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/FloatingScreen.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\FloatingScreen.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/floatrar3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\floatrar3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/forgiveness
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\forgiveness.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/frame
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\frame.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/FuckArisu_sadface_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\FuckArisu_sadface_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/geisha_21.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\geisha_21.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/genjoh.mp3
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\genjoh.mp3
+Content Type: audio/mpeg
+
+Uri: https://fauux.neocities.org/ghost3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ghost3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glimmer
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glimmer.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/glitch/1252568320_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\1252568320_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/4faces_05.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\4faces_05.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/acress_07_slow.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\acress_07_slow.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/acress_08.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\acress_08.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/aozora_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\aozora_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/band_death_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\band_death_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/cmyk_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\cmyk_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/disp_girl_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\disp_girl_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/eyes_jap_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\eyes_jap_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/faceg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\faceg.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/glitch/faceh
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\faceh.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/glitch/frame_A_FIN.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\frame_A_FIN.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/geisha_what_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\geisha_what_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gen_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gen_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gen_06_big.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gen_06_big.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/GEN_07.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\GEN_07.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/ggg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\ggg.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin2_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin2_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin3_3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin3_3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin4_4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin4_4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin5_5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin5_5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin6_6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin6_6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin7_7.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin7_7.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin8_8.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin8_8.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin9.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin9.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin9_2.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin9_2.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin9_3.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin9_3.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/gifst/fin9_9.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gifst\fin9_9.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfade.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfade2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfade3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfade4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfade5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfade6BIG.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade6BIG.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfadeBIG.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfadeBIG.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girlfade_BIG_still.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade_BIG_still.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/girlfade_BIG_still_2.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girlfade_BIG_still_2.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/girl_ast_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girl_ast_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/girl_sad_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\girl_sad_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glasses_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glasses_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glitchTest2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glitchTest2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glitchTest3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glitchTest3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glitchTest5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glitchTest5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glitchTest6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glitchTest6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glitchTest7.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glitchTest7.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glitchTest8.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glitchTest8.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glitchTest9.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glitchTest9.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/glith_saito_tv_02_1024_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\glith_saito_tv_02_1024_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/grid_test_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\grid_test_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/gurl.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\gurl.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/hat_hat_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\hat_hat_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/hhh
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\hhh.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/glitch/img_3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\img_3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/juki_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\juki_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/juuuko_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\juuuko_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/kayama_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\kayama_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/kubi_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\kubi_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/kuji_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\kuji_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/lady_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\lady_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/lady_lady_10.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\lady_lady_10.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/mikohako_05.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\mikohako_05.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/miko_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\miko_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/military_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\military_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/monogatari_09.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\monogatari_09.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/Nkd_island_05.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\Nkd_island_05.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/old_lady_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\old_lady_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/pixel_portr_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\pixel_portr_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/pop_do_what_06.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\pop_do_what_06.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/rbg_cmyk_test_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\rbg_cmyk_test_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/sailorS_06.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\sailorS_06.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/saito
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\saito.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/glitch/saito/seikoFIN3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\saito\seikoFIN3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/saito/wahwah.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\saito\wahwah.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/saito/wahwah2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\saito\wahwah2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/saito/wahwah3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\saito\wahwah3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/screen_12.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\screen_12.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/screen_13.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\screen_13.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/shit/fade088.wav
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\fade088.wav
+Content Type: application/octet-stream
+
+Uri: https://fauux.neocities.org/glitch/shit/shit10.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit10.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit11.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit11.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit12.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit12.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit13.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit13.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit14.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit14.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit15.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit15.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit16.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit16.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit17.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit17.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit18.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit18.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit19.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit19.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit2.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit2.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit20.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit20.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit21.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit21.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit22.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit22.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit23.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit23.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit24.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit24.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit25.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit25.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit26.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit26.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit27.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit27.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit28.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit28.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit29.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit29.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit3.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit3.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit30.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit30.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit31.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit31.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit32.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit32.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit33.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit33.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit34.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit34.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit35.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit35.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit36.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit36.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit37.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit37.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit4.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit4.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit5.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit5.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit6.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit6.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit7.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit7.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit8.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit8.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shit/shit9.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shit\shit9.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/shoshii_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\shoshii_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/sonoko001.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\sonoko001.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/sonoko_black_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\sonoko_black_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/taka_head_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\taka_head_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test----dd10.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test----dd10.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test----dd12.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test----dd12.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test----dd8.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test----dd8.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_18fps.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_18fps.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_32_04.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_32_04.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/glitch/test_eyes_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_eyes_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_eye_anim_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_eye_anim_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_eye_anim_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_eye_anim_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_geisha_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_geisha_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_latency_07.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_latency_07.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_letters_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_letters_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_old_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_old_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_people_400px_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_people_400px_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_pop_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_pop_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_squish_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_squish_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/test_star_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\test_star_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/timepasshow_09.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\timepasshow_09.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/timepass_37.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\timepass_37.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/trees_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\trees_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/tst_RGB_anim_shake.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\tst_RGB_anim_shake.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glitch/various
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\various.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/glitch/yuki_snow_08.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glitch\yuki_snow_08.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/glOOOOfD.mov
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\glOOOOfD.mov
+Content Type: video/quicktime
+
+Uri: https://fauux.neocities.org/god
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\god.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/godisnoise
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\godisnoise.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/green.mov
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\green.mov
+Content Type: video/quicktime
+
+Uri: https://fauux.neocities.org/grid
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\grid.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/Guest.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Guest.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/hahaRADAR2_big.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\hahaRADAR2_big.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/hahaRADAR2_big1.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\hahaRADAR2_big1.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Handfree.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Handfree.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Handfree3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Handfree3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/handsL1.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\handsL1.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/happiness
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\happiness.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/haze
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\haze.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/headless
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\headless.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/help
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\help.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/herethen
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\herethen.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/hidden
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\hidden.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/hivemind
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\hivemind.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/horror
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\horror.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/hover.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\hover.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/IAMGOD.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\IAMGOD.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/identity
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\identity.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/idol
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\idol.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/idolatseaBIG2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\idolatseaBIG2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/idolfade2.mp4
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\idolfade2.mp4
+Content Type: video/mp4
+
+Uri: https://fauux.neocities.org/idol_mosh_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\idol_mosh_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/image_morph_anim_fin_07.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\image_morph_anim_fin_07.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/indulgence
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\indulgence.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/insomnia.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\insomnia.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/invlain
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\invlain.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/jerry_2.wav
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\jerry_2.wav
+Content Type: application/octet-stream
+
+Uri: https://fauux.neocities.org/JJJjjjjdDDD.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\JJJjjjjdDDD.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/kin555.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\kin555.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/kuro
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\kuro.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/kuro3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\kuro3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/laihhhn3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\laihhhn3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/lain-dmt.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain-dmt.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain.js
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain.js
+Content Type: application/javascript
+
+Uri: https://fauux.neocities.org/Lain3DThumb2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Lain3DThumb2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Lain3D_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Lain3D_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainarmhold3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainarmhold3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainBehindMove2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainBehindMove2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainbendit1_B.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainbendit1_B.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainbighead3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainbighead3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainCOMP_FIN2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainCOMP_FIN2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainDiss3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainDiss3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainDressSlow.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainDressSlow.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainelevB4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainelevB4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainfan3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainfan3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainGOD.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainGOD.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LAINHADN3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LAINHADN3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainLaugh.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainLaugh.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainliquidB5_006.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainliquidB5_006.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainLOGO.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainLOGO.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainLone2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainLone2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainmad.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainmad.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainMeister.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainMeister.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainofthewired3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainofthewired3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainpattern.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainpattern.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/LainPrism4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\LainPrism4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Lainpt3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Lainpt3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainRGB_FIN.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainRGB_FIN.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainsbed.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainsbed.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainsmall2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainsmall2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/laintrain.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\laintrain.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lainwin3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lainwin3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Lain_3c.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Lain_3c.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain_myese.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain_myese.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain_spk.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain_spk.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain_vapors_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain_vapors_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain_vertical.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain_vertical.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain_wall.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain_wall.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lain_wired.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lain_wired.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/layer
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\layer.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/Light.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Light.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/lily/apple
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily\apple.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/lily/apple1.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily\apple1.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily/apple_a_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily\apple_a_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily/boy10.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily\boy10.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily/fg_flikr004.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily\fg_flikr004.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily2
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily2.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/lily3
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily3.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/lilytestRGB3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lilytestRGB3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily_bg_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily_bg_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily_body.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily_body.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily_cloud.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily_cloud.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily_grass.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily_grass.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/lily_grass_bg_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lily_grass_bg_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/line
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\line.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/liquid
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\liquid.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/llolh6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\llolh6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/login
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\login.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/login.wav
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\login.wav
+Content Type: application/octet-stream
+
+Uri: https://fauux.neocities.org/lon.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lon.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Love
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Love.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/lovelain
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\lovelain.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/loveLain.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\loveLain.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/mebii3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\mebii3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/mebious_icon_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\mebious_icon_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/melt
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\melt.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/melt_aia2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\melt_aia2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/melt_aia3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\melt_aia3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/melt_aia4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\melt_aia4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/mine
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\mine.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/misconduct
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\misconduct.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/monitor
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\monitor.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/motion
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\motion.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/Mouth.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Mouth.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/neglectful
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\neglectful.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/NEOLAIN_TR.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\NEOLAIN_TR.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/noise
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\noise.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/noise.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\noise.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/not_found
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\not_found.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/obscure
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\obscure.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/oldlore
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\oldlore.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/oldScreen.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\oldScreen.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/ongoing
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ongoing.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/overcast
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\overcast.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/pattern
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\pattern.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/pcLain.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\pcLain.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/peaceful
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\peaceful.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/phantom
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\phantom.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/poopz.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\poopz.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/portrait
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\portrait.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/presentday.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\presentday.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/promo9th.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\promo9th.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/psyche
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\psyche.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/radiance
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\radiance.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/railroad
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\railroad.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/rain
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\rain.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/rays
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\rays.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/red.mov
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\red.mov
+Content Type: video/quicktime
+
+Uri: https://fauux.neocities.org/REIN2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\REIN2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/religion
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\religion.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/remembrance
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\remembrance.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/reminiscence
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\reminiscence.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/rest
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\rest.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/RGBpop_02_anim.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\RGBpop_02_anim.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/rgb_filter.png
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\rgb_filter.png
+Content Type: image/png
+
+Uri: https://fauux.neocities.org/ritual
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ritual.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/rocknroll.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\rocknroll.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/run_rein.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\run_rein.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/sane_pls.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sane_pls.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Search
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Search.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/search.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\search.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Shake_5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Shake_5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/sinner
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sinner.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/sleep
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sleep.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/Sleep_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Sleep_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/smallLain2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\smallLain2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/smog
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\smog.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/sound/2020.wav
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sound\2020.wav
+Content Type: application/octet-stream
+
+Uri: https://fauux.neocities.org/sound/boon_loop.wav
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sound\boon_loop.wav
+Content Type: application/octet-stream
+
+Uri: https://fauux.neocities.org/sound/female_dreaming.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sound\female_dreaming.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/sound/flat_face.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sound\flat_face.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/sound/idolvoice_02.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sound\idolvoice_02.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/sound/psx_lain.wav
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sound\psx_lain.wav
+Content Type: application/octet-stream
+
+Uri: https://fauux.neocities.org/sound/WiredIntro2.wav
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sound\WiredIntro2.wav
+Content Type: application/octet-stream
+
+Uri: https://fauux.neocities.org/space
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\space.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/spirit
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\spirit.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/Static2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Static2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/2230.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\2230.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/blink5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\blink5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/bust3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\bust3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/bustII2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\bustII2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/face2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\face2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/ghgh5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\ghgh5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/glitchtest9.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\glitchtest9.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/greek-statue3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\greek-statue3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/main_cloud_1400_1.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\main_cloud_1400_1.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/main_cloud_1400_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\main_cloud_1400_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/main_cloud_1400_3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\main_cloud_1400_3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/main_cloud_1400_4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\main_cloud_1400_4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/main_cloud_1400_5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\main_cloud_1400_5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/main_cloud_1400_6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\main_cloud_1400_6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/main_cloud_1400_7.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\main_cloud_1400_7.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/manheadwhat2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\manheadwhat2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/marmo5r.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\marmo5r.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/mary14.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\mary14.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/pine_01.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\pine_01.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/pine_02.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\pine_02.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/pine_03.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\pine_03.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/pine_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\pine_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/sdsdsdsdsd2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\sdsdsdsdsd2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/statue/statue
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue10
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue10.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue11
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue11.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue12
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue12.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue2
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue2.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue3
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue3.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue4
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue4.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue5
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue5.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue6
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue6.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue7
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue7.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue8
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue8.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/statue/statue9
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\statue\statue9.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/step2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\step2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/stillLuv.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\stillLuv.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/storm
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\storm.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/STORM4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\STORM4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/stylesheet.css
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\stylesheet.css
+Content Type: text/css
+
+Uri: https://fauux.neocities.org/stylesheetLogin.css
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\stylesheetLogin.css
+Content Type: text/css
+
+Uri: https://fauux.neocities.org/stylesheetU800px.css
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\stylesheetU800px.css
+Content Type: text/css
+
+Uri: https://fauux.neocities.org/SunD.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\SunD.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/sunset
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sunset.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/sunset3_12fps.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\sunset3_12fps.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/television
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\television.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/terror
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\terror.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/test
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\test.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/thebutthead3_slow.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\thebutthead3_slow.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/thoughts
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\thoughts.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/thunder
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\thunder.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/time
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\time.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/tokiotown.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\tokiotown.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/torment
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\torment.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/torment.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\torment.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/tracklist
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\tracklist.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/trainthelain_5.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\trainthelain_5.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/TranLAIN_WD.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\TranLAIN_WD.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/transform
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\transform.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/transparent
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\transparent.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/trashlines
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\trashlines.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/trashlinesHA_clean.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\trashlinesHA_clean.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/tst_2222_4_4_2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\tst_2222_4_4_2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/tumblrsux.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\tumblrsux.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/tumblr_stop_stealing_my_shit.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\tumblr_stop_stealing_my_shit.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/TV_Lain.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\TV_Lain.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/TV_MMMMM_3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\TV_MMMMM_3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/unbound
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\unbound.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/uneak
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\uneak.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/unorgz
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\unorgz.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/urgent
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\urgent.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/User.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\User.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/USER2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\USER2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/uu2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\uu2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/ValentineKiss2.ogg
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ValentineKiss2.ogg
+Content Type: audio/ogg
+
+Uri: https://fauux.neocities.org/vein
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\vein.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/video.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\video.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/VIR4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\VIR4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/virtuous
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\virtuous.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/visible
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\visible.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/VisLain.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\VisLain.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/vivid
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\vivid.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/wash
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wash.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/watchful
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\watchful.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/whoid.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\whoid.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/whoo.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\whoo.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wind
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wind.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/wind4.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wind4.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wind6.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wind6.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/Window3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\Window3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wiredcollectivebutton2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wiredcollectivebutton2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wiredfriend
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wiredfriend.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/wiredfriendFIN.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wiredfriendFIN.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wiredGang_04.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wiredGang_04.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wiredLogInNew_512px_06.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wiredLogInNew_512px_06.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wtfulain.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wtfulain.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wtfulain2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wtfulain2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wtfulain3.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wtfulain3.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wtfulain7.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wtfulain7.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wtfulain8.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wtfulain8.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/wtfulain9.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\wtfulain9.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/yearning
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\yearning.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/yearning.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\yearning.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/ylk/yJbJK-f2.gif
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\ylk\yJbJK-f2.gif
+Content Type: image/gif
+
+Uri: https://fauux.neocities.org/yui
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\yui.html
+Content Type: text/html
+
+Uri: https://fauux.neocities.org/yyyyyyY.pdf
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\yyyyyyY.pdf
+Content Type: application/pdf
+
+Uri: https://groundfloor.neocities.org/default.css
+File Name: C:\Users\EFE\Desktop\fauux.neocities.org\default.css
+Content Type: text/css
+
